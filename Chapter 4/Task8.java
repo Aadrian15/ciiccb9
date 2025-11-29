@@ -1,5 +1,4 @@
 
-You sent
 public class Task8 {
 
     // Method with varargs
